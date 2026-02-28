@@ -1,1 +1,0 @@
-# linux-basic-administration-lab
